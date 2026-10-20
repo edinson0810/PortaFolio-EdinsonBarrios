@@ -16,4 +16,4 @@ Aspirante a **Data / BI Analyst** y **QA Tester**, enfocado en transformar datos
   * [Consultas y Reportes Analíticos](proyecto-1-analisis-ventas-sql/02_consultas_analiticas.sql)
   ---
   📫 **¿Cómo contactarme?**
-   * [Conéctate conmigo en LinkedIn](https://www.linkedin.com)
+   * ✉️ **Correo:** [lache081015@gmail.com](mailto:lache081015@gmail.com)
